@@ -1,0 +1,1 @@
+echo "# Flujo de trabajo del proyecto`n`na. Crear una nueva rama para cada función nueva.`nb. Programar la función en esa rama.`nc. Probar el código localmente.`nd. Hacer pull request para revisión.`ne. Fusionar a la rama principal (main) si todo está correcto." > WORKFLOW.md
